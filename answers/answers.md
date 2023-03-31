@@ -11,7 +11,7 @@ the code is written at src/ingestion_job.py and can be run using `make ingestion
 the code is written at src/data_analysis.py and can be run using `make data-analysis`
 
 ## question 4:
-the code is written at src/weather_api and can be run using python3 app.py and accessed at `localhost:5000/apidocs`
+the code is written at src/weather_api and can be run using python3 app.py on src/weather_api and accessed at `localhost:5000/apidocs`
 
 ## extra credit:
 
