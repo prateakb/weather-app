@@ -58,7 +58,7 @@ The REST API exposes the following endpoints:
 - `/api/weather`: Retrieve weather data.
 - `/api/weather/stats`: Retrieve weather statistics.
 
-Both endpoints support filtering by date and station ID using query parameters. Data is returned in JSON format and is paginated.
+Both endpoints support filtering by date and station ID using query parameters. Data is returned in JSON format
 
 ## Swagger/OpenAPI
 ---------------
