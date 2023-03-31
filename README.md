@@ -31,7 +31,7 @@ make create-tables
 4. Ingest data into the database:
 
 ```
-make ingestion-job WX_DATA_DIRECTORY=/path/to/weather/data
+ WX_DATA_DIRECTORY=/path/to/weather/data && make ingestion-job
 ```
 
 5. Analyze the data:
